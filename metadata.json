@@ -1,0 +1,6 @@
+{
+  "name": "Warm Editorial Bookstore",
+  "description": "Material Design 3 responsive literary salon and bookstore for Android and Web with warm tactile aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
